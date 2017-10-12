@@ -1,0 +1,2 @@
+<a id="url" target="_blank" href="http://www.syntevo.com/static/smart/download/smartgit/smartgit-win32-setup-jre-17_1_0.zip">http://www.syntevo.com/static/smart/download/smartgit/smartgit-win32-setup-jre-17_1_0.zip
+zhangxingzhi edit 20171012 21:02;First edition.
